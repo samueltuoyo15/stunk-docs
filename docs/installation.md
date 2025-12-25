@@ -14,7 +14,7 @@ npm install stunk
 yarn add stunk
 
 # pnpm
-pnpm install stunk
+pnpm add stunk
 
 # bun
 bun add stunk
